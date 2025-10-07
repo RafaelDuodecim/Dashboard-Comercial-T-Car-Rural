@@ -38,7 +38,7 @@
 ### 📌 Página Inicial
 ### 📌 Indicadores Comerciais
 ### 📌 Análise Detalhada
-
+### 📌 Link do Projeto: https://app.powerbi.com/view?r=eyJrIjoiZDViOTk0Y2UtODZkYy00NTRkLWEyZDQtYTY2ODE4ZGI3Y2Q2IiwidCI6ImRjYzZiZjVjLTNiZjctNGFlOC04OWZlLWI5N2MwMjEzODkyYiJ9
 # 👨‍💻 Autor: Rafael Santos
 ## 🎓 Cursando MBA em Supply Chain Management e Logística
 ## 📧 Entre em contato pelo LinkedIn: https://www.linkedin.com/in/rafael-santos-009607122/
