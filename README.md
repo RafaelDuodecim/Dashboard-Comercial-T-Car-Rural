@@ -37,7 +37,7 @@
 # 🖼️ Visualizações do Projeto
 ### 📌 Página Inicial
 ### 📌 Indicadores Comerciais
-### 📌 Análises Detalhadas
+### 📌 Análise Detalhada
 
 # 👨‍💻 Autor: Rafael Santos
 ## 🎓 Cursando MBA em Supply Chain Management e Logística
